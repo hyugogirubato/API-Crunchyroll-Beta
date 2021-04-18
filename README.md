@@ -1,2 +1,3 @@
 # crunchyroll-api
-New crunchyroll api 2021.
+
+All information is located in the [wiki](https://github.com/hyugogirubato/crunchyroll-api/wiki).
