@@ -1,5 +1,4 @@
-![Crunchyroll (Beta)](https://github.com/hyugogirubato/crunchyroll-beta-api/blob/main/api_banner.png?raw=true)
+![Crunchyroll (Beta)](https://github.com/hyugogirubato/API-Crunchyroll-Beta/blob/main/api_banner.png?raw=true)
 
 ## Crunchyroll (Beta) API
-All information is located in the [wiki](https://github.com/hyugogirubato/crunchyroll-api/wiki).
-
+All information is located in the [wiki](https://github.com/hyugogirubato/API-Crunchyroll-Beta/wiki).
